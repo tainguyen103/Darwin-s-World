@@ -1,0 +1,18 @@
+Taismiles
+yellow
+ifenemy 5
+ifsame 5
+ifrandom 10
+hop
+go 0
+left
+infect
+right
+go 0
+left
+go 0
+right 
+go 0
+
+The Taismiles creature constantly moves forward.  When it
+runs into another rover, it randomly turns left or right.
